@@ -1,0 +1,11 @@
+.header {
+  margin-bottom: 24px;
+  padding: 24px;
+  border-radius: 16px;
+  background-color: #6b4f4f;
+  color: white;
+}
+
+.header h2 {
+  margin-bottom: 8px;
+}
